@@ -1,0 +1,1 @@
+const e={key:"v-2df5aba0",path:"/reference/annotations/response.html",title:"Response",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1653978255e3},filePathRelative:"reference/annotations/response.md"};export{e as data};

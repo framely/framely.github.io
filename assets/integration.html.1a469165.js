@@ -1,0 +1,1 @@
+const e={key:"v-294ea635",path:"/guide/platform/integration.html",title:"Interaction with integration.",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:3,title:"Before you begin",slug:"before-you-begin",children:[]},{level:3,title:"Setting up",slug:"setting-up",children:[]}],git:{updatedTime:165849717e4},filePathRelative:"guide/platform/integration.md"};export{e as data};

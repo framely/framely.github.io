@@ -1,0 +1,1 @@
+const e={key:"v-49727d84",path:"/reference/channels/overview.html",title:"Universal Channel",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1658106625e3},filePathRelative:"reference/channels/overview.md"};export{e as data};

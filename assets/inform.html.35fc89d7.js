@@ -1,0 +1,1 @@
+const e={key:"v-1e78d608",path:"/reference/annotations/inform.html",title:"Inform",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1653978159e3},filePathRelative:"reference/annotations/inform.md"};export{e as data};

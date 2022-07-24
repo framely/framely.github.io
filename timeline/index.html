@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="generator" content="VuePress 2.0.0-beta.38">
+    <style>
+      :root {
+        --c-bg: #fff;
+      }
+      html.dark {
+        --c-bg: #22272e;
+      }
+      html, body {
+        background-color: var(--c-bg);
+      }
+    </style>
+    <script>
+      const userMode = localStorage.getItem('vuepress-color-scheme');
+			const systemDarkMode = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+			if (userMode === 'dark' || (userMode !== 'light' && systemDarkMode)) {
+				document.documentElement.classList.toggle('dark', true);
+			}
+    </script>
+    <link rel="icon" type="image/png" sizes="16x16" href="/images/icons/favicon-16x16.png"><link rel="icon" type="image/png" sizes="32x32" href="/images/icons/favicon-32x32.png"><link rel="manifest" href="/manifest.webmanifest"><meta name="application-name" content="Framely"><meta name="apple-mobile-web-app-title" content="Framely"><meta name="apple-mobile-web-app-status-bar-style" content="black"><link rel="apple-touch-icon" href="/images/icons/apple-touch-icon.png"><link rel="mask-icon" href="/images/icons/safari-pinned-tab.svg" color="#4282fd"><meta name="msapplication-TileColor" content="#4282fd"><meta name="theme-color" content="#4282fd"><title>Timeline | Framely</title><meta name="description" content="Cost-effective Conversational Interface for any Services">
+    <link rel="modulepreload" href="/assets/app.a050b316.js"><link rel="modulepreload" href="/assets/index.html.9e51e5ec.js"><link rel="modulepreload" href="/assets/index.html.16c9c804.js">
+    <link rel="stylesheet" href="/assets/style.5874e0ef.css">
+  </head>
+  <body>
+    <div id="app"><!--[--><Timeline></Timeline><!----><!--]--></div>
+    <script type="module" src="/assets/app.a050b316.js" defer></script>
+  </body>
+</html>

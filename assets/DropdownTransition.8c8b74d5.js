@@ -1,0 +1,1 @@
+import{_ as n,d as r,o as s,b as a,w as i,f as p,T as c}from"./app.a050b316.js";const l=r({setup(_){const t=e=>{e.style.height=e.scrollHeight+"px"},o=e=>{e.style.height=""};return(e,f)=>(s(),a(c,{name:"dropdown",onEnter:t,onAfterEnter:o,onBeforeLeave:t},{default:i(()=>[p(e.$slots,"default")]),_:3}))}});var h=n(l,[["__file","DropdownTransition.vue"]]);export{h as D};

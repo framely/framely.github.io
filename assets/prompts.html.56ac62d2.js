@@ -1,0 +1,1 @@
+const e={key:"v-85a55a9c",path:"/reference/annotations/prompts.html",title:"Prompts",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1653978126e3},filePathRelative:"reference/annotations/prompts.md"};export{e as data};

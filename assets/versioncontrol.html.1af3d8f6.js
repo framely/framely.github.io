@@ -1,0 +1,1 @@
+const t={key:"v-4f619c78",path:"/guide/platform/versioncontrol.html",title:"Version control",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1658438946e3},filePathRelative:"guide/platform/versioncontrol.md"};export{t as data};

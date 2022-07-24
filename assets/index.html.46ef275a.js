@@ -1,0 +1,1 @@
+const e={key:"v-1fcdcab9",path:"/articles/",title:"Articles",lang:"en-US",frontmatter:{title:"Articles",sidebar:!1,blog:{type:"type",key:"article"},layout:"Article"},excerpt:"",headers:[],git:{},filePathRelative:null};export{e as data};

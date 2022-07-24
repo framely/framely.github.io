@@ -1,0 +1,1 @@
+const e={key:"v-77d048db",path:"/reference/annotations/mvprompts.html",title:"Multi-Valued Prompts",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1654595335e3},filePathRelative:"reference/annotations/mvprompts.md"};export{e as data};

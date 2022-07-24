@@ -1,0 +1,1 @@
+const e={key:"v-bacf91d0",path:"/reference/annotations/kotlinexpression.html",title:"Kotlin Expression",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1655965513e3},filePathRelative:"reference/annotations/kotlinexpression.md"};export{e as data};
